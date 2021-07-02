@@ -11,8 +11,9 @@
 ### Avances
 
 * Q function
-* PER/SER
 * SNR per bit
+* SER
+* PER
 
 ### Descripción
 
