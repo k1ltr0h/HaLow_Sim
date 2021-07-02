@@ -14,6 +14,7 @@
 * SNR per bit
 * SER
 * PER
+* Friis Model
 
 ### Descripción
 
