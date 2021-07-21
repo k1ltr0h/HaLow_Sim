@@ -15,6 +15,9 @@
 * SER
 * PER
 * Friis Model
+* dB y dBm a veces(potencia).
+* Discriminador de paquetes errados
+* Simulación básica
 
 ### Descripción
 
