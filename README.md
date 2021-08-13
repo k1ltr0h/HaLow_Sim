@@ -37,4 +37,4 @@ además de el tamaño de los canales utilizados en la banda Estadounidense.<br>
 
 ### Enlaces a documentos
 
-[Informe_Final]([Tel341]Simulación de transmisión efectiva para WiFi 802.11ah HaLow.pdf)
+[Informe_Final](./[Tel341]Simulación de transmisión efectiva para WiFi 802.11ah HaLow.pdf)
