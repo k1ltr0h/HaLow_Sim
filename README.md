@@ -10,14 +10,15 @@
 
 ### Avances
 
-* Q function
-* SNR per bit
-* SER
-* PER
-* Friis Model
+* Q function.
+* SNR per bit.
+* SER.
+* PER.
+* Friis Model.
 * dB y dBm a veces(potencia).
-* Discriminador de paquetes errados
-* Simulación básica
+* Discriminador de paquetes errados.
+* Simulación completa.
+* Gráficos.
 
 ### Descripción
 
@@ -33,7 +34,7 @@ además de el tamaño de los canales utilizados en la banda Estadounidense.<br>
 
 ![Bandas](./imgs/HaLow_bandas.jpg)
 ![Canales](./imgs/HaLow_canales.jpg)
-### Enlaces
 
-[Informe N°1 (PDF)](./docs/informe_v1.pdf)<br>
-[Informe N°1 (GDocs)](https://docs.google.com/document/d/14EjWDM_GIey-a1DFdDwb9veK1vgaGAgZ/edit)
+### Enlaces a documentos
+
+[Informe_Final]([Tel341]Simulación de transmisión efectiva para WiFi 802.11ah HaLow.pdf)
